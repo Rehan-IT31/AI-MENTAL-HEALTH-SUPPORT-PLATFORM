@@ -181,7 +181,7 @@ export default function SettingsPage() {
                 <div className="space-y-1">
                   <p className="text-gray-400 text-sm font-medium">Account ID</p>
                   <p className="text-white font-medium font-mono text-sm break-all">
-                    {user?.uid}
+                     {user?.id}
                   </p>
                 </div>
               </CardContent>
