@@ -1,0 +1,9 @@
+firebase_admin
+Flask
+Flask_Cors
+protobuf
+python-dotenv
+google-adk
+Deprecated
+Flask[async]
+cryptography
