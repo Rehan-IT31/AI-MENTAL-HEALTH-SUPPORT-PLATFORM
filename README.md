@@ -35,4 +35,8 @@ AI APIs
 Python Backend Services  
 
 
+<<<<<<< HEAD
 Note: This app is only for educational purpose do not use it for real therapy
+=======
+Note: This app is only for educational purpose do not use it for real therapy
+>>>>>>> 4ec3145 (Update README)
